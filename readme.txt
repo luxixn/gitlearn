@@ -1,3 +1,3 @@
-Git is a version control system.
-Git is free software.
-i am learning git .ok.
+git is a distributed version control system.
+git is a free software distributed under the gpl
+git has a mutable index called stagd
